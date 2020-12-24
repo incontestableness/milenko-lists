@@ -1,2 +1,2 @@
 # milenko-lists
-TF2BD compatible player lists
+TF2BD compatible playerlists
